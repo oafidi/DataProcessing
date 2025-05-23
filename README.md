@@ -8,10 +8,10 @@ Un projet d'intelligence artificielle appliquée au monde réel, développé ave
 
 Dans les domaines du **e-commerce**, de la **logistique**, de la **restauration** ou des **livraisons express**, prédire correctement le temps de livraison permet de :
 
-- ✅ Améliorer la **satisfaction client** grâce à des délais plus précis
-- ✅ Optimiser la **gestion des ressources humaines et logistiques**
-- ✅ Réduire les **coûts** liés aux retards ou à la mauvaise planification
-- ✅ Fournir des **prévisions exploitables** dans les dashboards décisionnels
+- Améliorer la **satisfaction client** grâce à des délais plus précis
+- Optimiser la **gestion des ressources humaines et logistiques**
+- Réduire les **coûts** liés aux retards ou à la mauvaise planification
+- Fournir des **prévisions exploitables** dans les dashboards décisionnels
 
 ---
 
