@@ -92,8 +92,8 @@ Je suis passionné par l’**innovation utile** et cherche à mettre mes compét
 
 ## Interface – Aperçu
 
-*![Screenshot from 2025-05-16 17-02-56](https://github.com/user-attachments/assets/bd6ba5b6-b859-4887-b8b3-3f87718710a6)
-*
+![image](https://github.com/user-attachments/assets/c442cdb7-ed13-434b-b627-0344dfb7e2fd)
+
 
 ---
 
