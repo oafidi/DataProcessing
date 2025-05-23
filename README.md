@@ -78,7 +78,7 @@ Dans les domaines du **e-commerce**, de la **logistique**, de la **restauration*
 - Ma capacité à construire un pipeline IA **complet de A à Z**
 - Mon savoir-faire en **analyse de données**, **modélisation** et **déploiement**
 - Ma volonté de **résoudre des problèmes métiers concrets à fort impact**
-- Ma **collaboration efficace en équipe** avec [Khalid Abouelfaraj]
+- Ma **collaboration efficace en équipe**
 
 ---
 
