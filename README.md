@@ -1,4 +1,4 @@
-# 📦 Delivery Time Prediction – Prédire intelligemment le temps de livraison
+# Delivery Time Prediction – Prédire intelligemment le temps de livraison
 
 Un projet d'intelligence artificielle appliquée au monde réel, développé avec [Khalid Abouelfaraj], visant à prédire avec précision le **temps de livraison** à partir de données historiques, tout en exploitant un pipeline de machine learning complet, robuste et déployé.
 
@@ -15,26 +15,26 @@ Dans les domaines du **e-commerce**, de la **logistique**, de la **restauration*
 
 ---
 
-## 🔄 Pipeline complet du projet
+## Pipeline complet du projet
 
-### 1. 📥 Collecte des données
+### 1. Collecte des données
 - Plus de **40 000 observations réelles**
 - Données historiques liées aux livraisons (localisation, météo, trafic, etc.)
 
-### 2. 🧹 Nettoyage & Prétraitement
+### 2. Nettoyage & Prétraitement
 - Correction d’erreurs **syntaxiques et sémantiques**
 - Détection et traitement des **valeurs aberrantes** (outliers)
 - Imputation **intelligente des valeurs manquantes** via :
   - `KNNImputer`
   - Autres techniques sans suppression automatique
 
-### 3. 🧠 Feature Engineering & Sélection
+### 3. Feature Engineering & Sélection
 - Création de **nouvelles variables explicatives**
 - Sélection des features les plus significatives avec des **tests statistiques** :
   - Corrélation pour les variables **quantitatives**
   - Test **ANOVA** pour les variables **qualitatives**
 
-### 4. 🧪 Préparation des données
+### 4. Préparation des données
 - **Z-score scaling** des variables numériques
 - **One-hot encoding** des variables catégorielles
 - Réduction de dimensionnalité avec **ACP (PCA)** + analyse exploratoire :
@@ -49,13 +49,13 @@ Dans les domaines du **e-commerce**, de la **logistique**, de la **restauration*
   - `XGBoostRegressor`
 - Le modèle **XGBoost** s’est révélé **le plus performant** sur notre jeu de test
 
-### 6. 🌐 Déploiement avec Streamlit
+### 6. Déploiement avec Streamlit
 - Création d’une **interface web interactive**
 - Permet aux utilisateurs (livreurs, managers, plateformes...) de **prédire en temps réel** le temps de livraison à partir de nouvelles entrées
 
 ---
 
-## 📊 Résultats
+## Résultats
 
 - Meilleur modèle : `XGBoostRegressor`
 - Évaluation avec le **coefficient de détermination R²**
@@ -63,7 +63,7 @@ Dans les domaines du **e-commerce**, de la **logistique**, de la **restauration*
 
 ---
 
-## 🧩 Technologies utilisées
+## Technologies utilisées
 
 - Python (pandas, numpy, matplotlib, seaborn)
 - Scikit-learn
@@ -73,7 +73,7 @@ Dans les domaines du **e-commerce**, de la **logistique**, de la **restauration*
 
 ---
 
-## 🎯 Ce que ce projet démontre
+## Ce que ce projet démontre
 
 - Ma capacité à construire un pipeline IA **complet de A à Z**
 - Mon savoir-faire en **analyse de données**, **modélisation** et **déploiement**
@@ -82,7 +82,7 @@ Dans les domaines du **e-commerce**, de la **logistique**, de la **restauration*
 
 ---
 
-## 🤝 Opportunités & Collaboration
+## Opportunités & Collaboration
 
 💬 **Vous travaillez dans la logistique, la livraison ou le transport ?**
 Je suis passionné par l’**innovation utile** et cherche à mettre mes compétences au service de projets à impact.  
@@ -90,7 +90,7 @@ Je suis passionné par l’**innovation utile** et cherche à mettre mes compét
 
 ---
 
-## 📷 Interface – Aperçu
+## Interface – Aperçu
 
 *(Insère ici une capture d’écran de ton interface Streamlit)*
 
