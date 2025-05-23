@@ -92,9 +92,9 @@ Je suis passionné par l’**innovation utile** et cherche à mettre mes compét
 
 ## Interface – Aperçu
 
-*(Insère ici une capture d’écran de ton interface Streamlit)*
+*![Screenshot from 2025-05-16 17-02-56](https://github.com/user-attachments/assets/bd6ba5b6-b859-4887-b8b3-3f87718710a6)
+*
 
 ---
 
-## 📁 Structure du projet
 
